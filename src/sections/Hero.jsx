@@ -4,7 +4,7 @@ import {
   ChevronDown,
   Download,
 } from "lucide-react";
-import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
+import { AnimatedBorderButton } from "../Components/AnimatedBorderButton";
 
 const GithubIcon = ({ className }) => (
   <svg viewBox="0 0 24 24" fill="currentColor" className={className}>
