@@ -1,5 +1,5 @@
 import { ArrowUpRight } from "lucide-react";
-import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
+import { AnimatedBorderButton } from "@/Components/AnimatedBorderButton";
 import { projects } from "@/data/projectsData";
 
 const GithubIcon = ({ className }) => (
