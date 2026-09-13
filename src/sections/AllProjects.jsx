@@ -1,6 +1,6 @@
 import { ArrowUpRight } from "lucide-react";
 import { Link } from "react-router-dom";
-import { projects } from "@/data/projectsData";
+import { projects } from "@/Data/projectsData";
 
 const GithubIcon = ({ className }) => (
   <svg viewBox="0 0 24 24" fill="currentColor" className={className}>
