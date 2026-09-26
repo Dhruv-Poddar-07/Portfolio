@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Dhruv's Portfolio
+# 🌸 Dhruv's Dummy Portfolio
 
 **A modern, animated developer portfolio built with React & Tailwind CSS**
 
