@@ -49,6 +49,14 @@ export const projects = [
     link: "https://flower-shop-by-dhruv.vercel.app/",
     github: "https://github.com/Dhruv-Poddar-07/Flower-Shop",
   },
+  {
+    title: "MCU",
+    description: "Interactive MCU fan project — scratch-reveal intro, animated Phase timeline, 3D hover character cards, clickable Infinity Stones, and a villain archive, built with React, Framer Motion, and Canvas API.",
+    image: "/projects/MCU.png",
+    tags: ["React", "Framer Motion", "Canvas API", "Tailwind", "Vite"],
+    link: "https://fun-mcu-project.vercel.app",
+    github: "https://github.com/Dhruv-Poddar-07/Fun-MCU-project",
+  }
 
   // ============================================================
   // EXAMPLE — COPY THIS FORMAT FOR FUTURE PROJECTS
